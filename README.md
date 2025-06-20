@@ -68,12 +68,6 @@ This project implements a **modern data lakehouse pipeline** on Azure, ingesting
 - **Never hardcode credentials** in notebooks or scripts.
 - Always use **Managed Identity** where possible for secure authentication.
 
-
----
-
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
