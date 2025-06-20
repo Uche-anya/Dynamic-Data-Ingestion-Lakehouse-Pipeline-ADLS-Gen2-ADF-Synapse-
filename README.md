@@ -10,7 +10,7 @@ This project implements a **modern data lakehouse pipeline** on Azure, ingesting
 | Tool/Service           | Role                                          |
 |------------------------|-----------------------------------------------|
 | Azure Data Factory     | Dynamic ingestion from GitHub to ADLS Bronze  |
-| Azure Data Lake Gen2   | Storage for Bronze, Silver, Gold zones        |
+| Azure Data Lake Gen2   | Storage for Bronze, Silver, Gold layers       |
 | Azure Databricks       | Data transformation and Parquet conversion    |
 | Azure Synapse SQL      | External tables over Silver/Gold Parquet data |
 | Parquet + Snappy       | Optimized storage format                      |
