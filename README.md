@@ -1,0 +1,1 @@
+# Dynamic-Data-Ingestion-Lakehouse-Pipeline-ADLS-Gen2-ADF-Synapse-
