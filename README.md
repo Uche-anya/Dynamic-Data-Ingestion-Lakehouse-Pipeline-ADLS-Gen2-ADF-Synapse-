@@ -1,4 +1,3 @@
-# Dynamic-Data-Ingestion-Lakehouse-Pipeline-ADLS-Gen2-ADF-Synapse
 
 # 🔁 Dynamic Data Ingestion & Lakehouse Pipeline (GitHub → ADLS Gen2 → Synapse)
 
