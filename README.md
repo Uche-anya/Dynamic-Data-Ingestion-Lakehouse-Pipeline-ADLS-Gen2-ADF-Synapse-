@@ -34,7 +34,7 @@ This project implements a **modern data lakehouse pipeline** on Azure, ingesting
     "p_sink_file": "AdventureWorks_Product_Categories.csv"
   },
 ]
-
+``` 
 **Destination Path:** `abfss://bronze@<your_storage_account>.dfs.core.windows.net/<tableName>/`
 
 
